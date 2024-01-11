@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+}
+.navbar ul {
+  list-style-type: none;
+  background-color: rgb(11, 11, 1);
+  padding: 0px;
+  margin: 0px;
+}
+.navbar a {
+  color: rgb(228, 242, 248);
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  text-align: center;
+}
